@@ -1,0 +1,11 @@
+{
+  "name": "@lotos2021/kotlin-docker-isolation-provider",
+  "keywords": [
+    "deep-package"
+  ],
+  "version": "0.0.3",
+  "author": "lotos2021",
+  "dependencies": {
+    "@deep-foundation/core": "^0.0.2"
+  }
+}
